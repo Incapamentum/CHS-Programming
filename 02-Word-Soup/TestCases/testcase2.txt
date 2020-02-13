@@ -1,0 +1,10 @@
+zebra
+alligator
+flamingo
+zoo
+crocodile
+gazelle
+deer
+turtle
+eagle
+bird
