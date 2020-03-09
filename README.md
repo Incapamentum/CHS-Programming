@@ -32,3 +32,9 @@ On the exam: https://apcentral.collegeboard.org/courses/ap-computer-science-prin
 ## Contact Information
 
 For any inquiries on this volunteering framework/program, please contact me at: diazg.gustavoa@knights.ucf.edu
+
+## License
+
+This repo is licensed under the Apache License 2.0. It is a permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+Apache License: https://www.apache.org/licenses/LICENSE-2.0
