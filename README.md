@@ -29,6 +29,8 @@ On the exam: https://apcentral.collegeboard.org/courses/ap-computer-science-prin
 
 ## Directory Structure
 
+Currently, there are two main directories of concern: **2018 - 2019** and **2019 - 2020**. Each of those directories will have their own README files specific to that directory.
+
 ## Contact Information
 
 For any inquiries on this volunteering framework/program, please contact me at: diazg.gustavoa@knights.ucf.edu
