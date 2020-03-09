@@ -15,9 +15,7 @@ Assignments were developed in such a way to provide practice opportunities for s
 - **Bugs in the System**: Aimed at providing an opportunity for students to develop their debugging skills
 - **Fresh Market Markup**: Data structures of dictionaries and lists
 - **Functional Overload**: Function definition and implementation
-- **Bits & Pieces**: Split into two parts, as follows
-
-    **Part One**: Numerical systems, and working with binary/decimal conversions in programming.
-    
+- **Bits & Pieces**: Split into two parts, as follows  
+    **Part One**: Numerical systems, and working with binary/decimal conversions in programming  
     **Part Two**: Mini-project on the simulation of an embedded programming environment
 - **Of Dice & Dragons**: Split into two parts. Serves as a proper introduction into object-oriented programming (OOP)
